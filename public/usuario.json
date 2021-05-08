@@ -1,0 +1,14 @@
+{
+    "user": {
+        "id": 1,
+        "name": "Test User",
+        "email": "test@user.com",
+        "organization_id": 1,
+        "email_verified_at": null,
+        "created_at": "2021-04-27T13:19:22.000000Z",
+        "updated_at": "2021-04-27T13:19:22.000000Z",
+        "tz": "America/Santiago",
+        "needs_to_change_password": false
+    },
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9...."
+}
